@@ -1,9 +1,9 @@
-permalink: /:year:month:day/:타이틀
+permalink: /:year:month:day/:title
 url: #Your url here
 baseurl: /project
 
 # variables
-name: Your Site Name
+name: Ya Feel So GooD
 description: Your description here
 google_verification: null
 
