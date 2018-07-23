@@ -1,4 +1,4 @@
-permalink: /:year:month:day/:title
+permalink: /:year:month:day/:타이틀
 url: #Your url here
 baseurl: /project
 
